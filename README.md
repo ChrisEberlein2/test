@@ -12,7 +12,7 @@ Liste
 - Item 3
 - ...
 
-Utilizer la commande 'git clone' pour cloner un project.
+Utilizer la commande `git clone` pour cloner un project.
 
 ...
 echo "Hello World"

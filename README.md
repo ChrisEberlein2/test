@@ -15,4 +15,4 @@ Liste
 Utilizer la commande `git clone` pour cloner un project.
 
 ...
-echo "Hello World"
+`echo "Hello World"`
